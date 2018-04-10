@@ -1,0 +1,16 @@
+{
+  "name": "puppet-screenshots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "mkdir -p ./screenshots"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.4.1",
+    "puppeteer": "^1.2.0",
+    "ramda": "^0.25.0"
+  }
+}
